@@ -79,7 +79,7 @@ h4 {
  }
 
  #inputEmail {
-    margin-top: 10px;
+    margin-top: 0px;
     margin-right: -20px;
     width: 400px;
     background-color: #FFFFFF;
@@ -123,7 +123,7 @@ opacity: 1;
  }
 
  #forgot_pwd {
-     margin: 27px 8px 3px auto;
+     margin: 27px 30px 3px auto;
      font-size: 15px;
      color: #ADADAD;
      top: 539px;
