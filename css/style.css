@@ -1,0 +1,111 @@
+ body {
+
+     width: 1560px;
+     height: 720px;
+     font-family: Roboto;
+     background: #FAFAFA 0% 0% no-repeat padding-box;
+ }
+
+
+ #main {
+     display: flex;
+     gap: 120px;
+     margin-top: 150px;
+     margin-left: 350px;
+
+ }
+
+ .center {
+     display: inline-block;
+ }
+
+ #main_img {
+
+     /* margin: 72px 162px 72px 166px; */
+     width: 576px;
+     height: 576px;
+     display: block;
+     border: 20px solid #FFFFFF;
+     border-radius: 50%;
+     opacity: 1;
+ }
+
+ #form_login {
+
+     margin-top: 70px;
+ }
+
+ #logo {
+     display: flex;
+ }
+
+ #Company_logo {
+     top: 106px;
+     left: 906px;
+     width: 272px;
+     height: 58px;
+
+ }
+
+ .slogan {
+     text-align: left;
+     font: normal normal 300 40px/47px Roboto;
+     letter-spacing: 0px;
+     color: #3E3E3E;
+     opacity: 1;
+ }
+
+ .login-suggest {
+     text-align: left;
+     font: normal normal normal 25px/33px Roboto;
+     letter-spacing: 0px;
+     color: #3E3E3E;
+     opacity: 1;
+ }
+
+ span {
+     color: #C8242F;
+     font-weight: bold;
+
+ }
+
+
+ #inputPassword {
+     margin-top: 20px;
+     width: 400px;
+     margin-bottom: 10px;
+ }
+
+ #inputEmail {
+     margin-top: 10px;
+     margin-right: -20px;
+     width: 400px;
+ }
+
+ #login_pwd {
+     display: flex;
+     gap: 100px;
+     margin-bottom: 10px;
+ }
+
+ #login_but {
+     background-color: #C8242F;
+     margin-top: 20px;
+     border-radius: 40px;
+     width: 100px;
+     border-color: #ffffff;
+ }
+
+ #forgot_pwd {
+     margin-top: 35px;
+     font-size: 15px;
+     color: #ADADAD;
+     top: 539px;
+     left: 1214px;
+     width: 121px;
+     height: 20px;
+     text-align: left;
+     font: normal normal normal 15px/20px Roboto;
+     letter-spacing: 0px;
+
+ }
