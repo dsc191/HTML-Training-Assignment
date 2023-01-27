@@ -82,6 +82,7 @@ h4 {
     margin-top: 0px;
     margin-right: -20px;
     width: 400px;
+    color: #ADADAD;
     background-color: #FFFFFF;
     border: 1px solid #ADADAD;
     padding: 14.63px 1px 14.27px 14.5px;
@@ -96,6 +97,7 @@ h4 {
      padding: 14.63px 1px 14.27px 14.5px;
      background-color: #FFFFFF;
      border: 1px solid #ADADAD;
+     color: #ADADAD;
     border-radius: 5px;
  }
 
